@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkidle_dashboard_new=self.webpackChunkidle_dashboard_new||[]).push([[4724],{4724:function(n,e,r){r.r(e),r.d(e,{EpochsKeyInformation:function(){return s}});var s=function(n){n.assetId;return null}}}]);
